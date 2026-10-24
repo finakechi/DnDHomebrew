@@ -46,3 +46,7 @@ See SOURCE_INVENTORY.md for the seven unreadable blocks. Missing full conversati
 ## Implementation boundary
 
 The current user request authorizes additive organization within DnDHomebrew and its designated Drive folder. No deletion, significant relocation, approved-mechanic replacement, repository merge, external project mutation, sharing change, or substantive conflict resolution is part of this implementation. No background synchronization is assumed.
+
+## Implementation follow-through
+
+The additive organization is now recorded in ORGANIZATION_LOG.md. SOURCE_INVENTORY.md maps each retrieved identity to its preserved destination; PRESERVATION_MANIFEST.json separates original and rendition hashes. Portable metadata from six research reports is indexed in ARCHIVED_SOURCE_LINKS.md. Conflicts and recovery gaps remain explicit. The final remote and navigation checks are in VERIFICATION_REPORT.md.

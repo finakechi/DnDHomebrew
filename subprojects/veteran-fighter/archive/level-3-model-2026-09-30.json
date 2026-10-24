@@ -1,0 +1,167 @@
+{
+  "assumptions": {
+    "p": 0.65,
+    "advantage_p": 0.8775,
+    "weapon_hit_damage": 12,
+    "current_punch_hit_damage": 6,
+    "no_crit_mastery": true
+  },
+  "baselines": [
+    {
+      "level": 3,
+      "n": 1,
+      "ability_modifier": 3,
+      "results": [
+        {
+          "p": 0.5,
+          "miss_probability": 0.5,
+          "current_punch": 1.0,
+          "practical_contact": 3.25,
+          "d8_fallback": 1.875
+        },
+        {
+          "p": 0.65,
+          "miss_probability": 0.35,
+          "current_punch": 0.9099999999999999,
+          "practical_contact": 4.2250000000000005,
+          "d8_fallback": 1.7062499999999998
+        },
+        {
+          "p": 0.8,
+          "miss_probability": 0.19999999999999996,
+          "current_punch": 0.6399999999999999,
+          "practical_contact": 5.2,
+          "d8_fallback": 1.1999999999999997
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "n": 2,
+      "ability_modifier": 4,
+      "results": [
+        {
+          "p": 0.5,
+          "miss_probability": 0.75,
+          "current_punch": 1.875,
+          "practical_contact": 3.75,
+          "d8_fallback": 3.1875
+        },
+        {
+          "p": 0.65,
+          "miss_probability": 0.5774999999999999,
+          "current_punch": 1.8768749999999998,
+          "practical_contact": 4.875,
+          "d8_fallback": 3.1906874999999997
+        },
+        {
+          "p": 0.8,
+          "miss_probability": 0.3599999999999999,
+          "current_punch": 1.4399999999999995,
+          "practical_contact": 6.0,
+          "d8_fallback": 2.4479999999999995
+        }
+      ]
+    },
+    {
+      "level": 11,
+      "n": 3,
+      "ability_modifier": 5,
+      "results": [
+        {
+          "p": 0.5,
+          "miss_probability": 0.875,
+          "current_punch": 2.625,
+          "practical_contact": 4.25,
+          "d8_fallback": 4.15625
+        },
+        {
+          "p": 0.65,
+          "miss_probability": 0.725375,
+          "current_punch": 2.8289625,
+          "practical_contact": 5.525,
+          "d8_fallback": 4.479190625
+        },
+        {
+          "p": 0.8,
+          "miss_probability": 0.4879999999999999,
+          "current_punch": 2.3423999999999996,
+          "practical_contact": 6.800000000000001,
+          "d8_fallback": 3.708799999999999
+        }
+      ]
+    },
+    {
+      "level": 13,
+      "n": 3,
+      "ability_modifier": 5,
+      "results": [
+        {
+          "p": 0.5,
+          "miss_probability": 0.875,
+          "current_punch": 2.625,
+          "practical_contact": 4.25,
+          "d8_fallback": 4.15625
+        },
+        {
+          "p": 0.65,
+          "miss_probability": 0.725375,
+          "current_punch": 2.8289625,
+          "practical_contact": 5.525,
+          "d8_fallback": 4.479190625
+        },
+        {
+          "p": 0.8,
+          "miss_probability": 0.4879999999999999,
+          "current_punch": 2.3423999999999996,
+          "practical_contact": 6.800000000000001,
+          "d8_fallback": 3.708799999999999
+        }
+      ]
+    },
+    {
+      "level": 20,
+      "n": 4,
+      "ability_modifier": 5,
+      "results": [
+        {
+          "p": 0.5,
+          "miss_probability": 0.9375,
+          "current_punch": 2.8125,
+          "practical_contact": 4.25,
+          "d8_fallback": 4.453125
+        },
+        {
+          "p": 0.65,
+          "miss_probability": 0.8214937499999999,
+          "current_punch": 3.2038256249999995,
+          "practical_contact": 5.525,
+          "d8_fallback": 5.072723906249999
+        },
+        {
+          "p": 0.8,
+          "miss_probability": 0.5903999999999999,
+          "current_punch": 2.83392,
+          "practical_contact": 6.800000000000001,
+          "d8_fallback": 4.4870399999999995
+        }
+      ]
+    }
+  ],
+  "studied": {
+    "3": {
+      "weapon_only": 25.09362375,
+      "current_with_punch": 27.720026221875003,
+      "current_net": 2.6264024718750036,
+      "practical_late_contact": 6.0828669332031255,
+      "carried_advantage_probability": 0.2884896875
+    },
+    "4": {
+      "weapon_only": 33.681200596875,
+      "current_with_punch": 36.54001352046094,
+      "current_net": 2.858812923585937,
+      "practical_late_contact": 6.074897772696289,
+      "carried_advantage_probability": 0.28436859609375
+    }
+  }
+}

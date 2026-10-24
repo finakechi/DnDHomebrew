@@ -1,0 +1,699 @@
+[
+  {
+    "source_id": "SRC-001",
+    "original_path": "/**Bartitsu: Historical Overview and Design Foundations**",
+    "library_file_id": "libfile_698c12304184819184a47acaaaf21220",
+    "sha256": "d6035196952832eda933c7ab20705455539e83a67f7b8a8b7517bd3213be3d15",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/bartitsu-rogue/archive/historical-foundations-cited.md",
+    "preserved_sha256": "8a481eecdd6aefd07e430925f5f0fd191cb359bd4db9f8be7eb391c3c19256fa",
+    "exact_original_bytes": false
+  },
+  {
+    "source_id": "SRC-002",
+    "original_path": "/Bartitsu_Audit_Reproduction.zip",
+    "library_file_id": "libfile_1de5ebe1249081918c6a86cd4d55cb4e",
+    "sha256": "35a5bd117acdd2bf119d862cab1b6f9acf62a80365c0f1d50cc97ba1bf246c49",
+    "access": "retrieved",
+    "preserved_destination": "https://drive.google.com/file/d/1LjZNO71GJNzxgiCYR-63gQsZVaIlZeOg/view?usp=drivesdk",
+    "archived_original_drive_file_id": "1LjZNO71GJNzxgiCYR-63gQsZVaIlZeOg"
+  },
+  {
+    "source_id": "SRC-003",
+    "original_path": "/Bartitsu_Balance_Workbook.xlsx",
+    "library_file_id": "libfile_8e25a76783908191b56b35dde6a3dcbb",
+    "sha256": "c9e7adc2a53afbe7abd8d19f7215ae66e18b4e9e952e7c18c69e3006b1ccc413",
+    "access": "retrieved",
+    "preserved_destination": "https://docs.google.com/spreadsheets/d/1flxRMks_EzlZpUN_Jm9EejzAJQWqq-6_/edit?usp=drivesdk&ouid=107465704497276850947&rtpof=true&sd=true",
+    "archived_original_drive_file_id": "1flxRMks_EzlZpUN_Jm9EejzAJQWqq-6_"
+  },
+  {
+    "source_id": "SRC-004",
+    "original_path": "/Bartitsu_Mechanical_Balance_Audit.md",
+    "library_file_id": "libfile_79555d9c4ae48191b4e975e2772820f8",
+    "sha256": "7d591efade3ae36595117e351706a0eafea27ba80994c3328460c61586cd8b2b",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/bartitsu-rogue/archive/mechanical-balance-audit-2026-10-05.md",
+    "preserved_sha256": "7d591efade3ae36595117e351706a0eafea27ba80994c3328460c61586cd8b2b",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-005",
+    "original_path": "/DnD Homebrew/Bartitsu_Rogue_Subclass_Design_Report.docx",
+    "library_file_id": "libfile_730043d40a048191af45572a87188023",
+    "sha256": "9f7f434bedc49aadde2761023f6e0a23444b70f844a14473dae5e72a3002f419",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/bartitsu-rogue/versions/provisional-design-2026-10-05.md",
+    "preserved_sha256": "2628b33b2db11ec05d4f1e54218c9176ed367d273dbfa413be83959881599290",
+    "exact_original_bytes": false,
+    "archived_original_drive_file_id": "19zrPUKEOy53nBXdK9b885jDloZjuzird"
+  },
+  {
+    "source_id": "SRC-006",
+    "original_path": "/DnD Homebrew/Hearth_and_Hazard_Fantasy_Heartbreaker_System_Design_Draft_v0.1.docx",
+    "library_file_id": "libfile_9da77f61668c8191a590974865639fe3",
+    "sha256": "bcec8e6a71694eeff46d54a74a84c85442b8bf0bad0bd9487851672c1d03e510",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/hearth-and-hazard/versions/foundation-draft-v0.1.md",
+    "preserved_sha256": "d98ea10211d13cab578d764e76dfe07a0017accf68af9e222e2cbecd2094a27a",
+    "exact_original_bytes": false,
+    "archived_original_drive_file_id": "1lz6TkLoK5X0rLe10xmrPltGMDD9mRVVd"
+  },
+  {
+    "source_id": "SRC-007",
+    "original_path": "/DnD Homebrew/Horizon_Walker_2024_Cleaned_Subclass.md",
+    "library_file_id": "libfile_2fd8292dbb7c81919a0ca7f46c7b5cb1",
+    "sha256": "71ac2084cc97f44ece4e1c38a16076ad04ebe17d242726509875a0a60e28c277",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/horizon-walker/archive/cleaned-subclass-2026-10-15.md",
+    "preserved_sha256": "71ac2084cc97f44ece4e1c38a16076ad04ebe17d242726509875a0a60e28c277",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-008",
+    "original_path": "/DnD Homebrew/Horizon_Walker_2024_Comprehensive_Redesign_Playtest_0_2.md",
+    "library_file_id": "libfile_1ec070ad6324819186ef8c42434d023f",
+    "sha256": "ee6cf33f67e7925135f968c721535cd27461a72ed1f3bfb45eb1e2ad1176a9ed",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/horizon-walker/versions/playtest-0.2-2026-10-15.md",
+    "preserved_sha256": "ee6cf33f67e7925135f968c721535cd27461a72ed1f3bfb45eb1e2ad1176a9ed",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-009",
+    "original_path": "/DnD Homebrew/Horizon_Walker_2024_Revised_Report.docx",
+    "library_file_id": "libfile_9e2262ee51088191ad936aa4046ad8b0",
+    "sha256": "6e1beed9f0e7a090a28cfd336a68966a959a797090b0601c311174627ccca182",
+    "access": "retrieved",
+    "preserved_destination": "https://docs.google.com/document/d/1W_fI9ag08nfSeSY9X0-cNluBLLCIE20C/edit?usp=drivesdk&ouid=107465704497276850947&rtpof=true&sd=true",
+    "archived_original_drive_file_id": "1W_fI9ag08nfSeSY9X0-cNluBLLCIE20C"
+  },
+  {
+    "source_id": "SRC-010",
+    "original_path": "/DnD Homebrew/Horizon_Walker_2024_Revised_Report.md",
+    "library_file_id": "libfile_f2077e3c5af88191b11bac726525873a",
+    "sha256": "1fc63fad405aefedb31eb8d1e48a3bddf960e0e01977ef177235d62e148f1638",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/horizon-walker/versions/revised-report-v1.0-2026-10-15.md",
+    "preserved_sha256": "1fc63fad405aefedb31eb8d1e48a3bddf960e0e01977ef177235d62e148f1638",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-011",
+    "original_path": "/DnD Homebrew/Horizon_Walker_2024_Revised_Report.pdf",
+    "library_file_id": "libfile_3035ebe6a900819198011a84aade3635",
+    "sha256": "5efdc6227e078cf78afdb448921f79da052c2b319f97db6b0a45ca466c27fa91",
+    "access": "retrieved",
+    "preserved_destination": "https://drive.google.com/file/d/1ACLAfx_mlBYmI6e3n_EwMuX731BUnneO/view?usp=drivesdk",
+    "archived_original_drive_file_id": "1ACLAfx_mlBYmI6e3n_EwMuX731BUnneO"
+  },
+  {
+    "source_id": "SRC-012",
+    "original_path": "/DnD Homebrew/Horizon_Walker_2024_Revision_Playtest_0_1(1).md",
+    "library_file_id": "libfile_cd67826905bc8191af369327d7db1881",
+    "sha256": "fec79550857b4fd1612dc8b82bf8d249e6f09497924287f93ae484af1b07b998",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/horizon-walker/versions/playtest-0.1-2026-10-15.md",
+    "preserved_sha256": "fec79550857b4fd1612dc8b82bf8d249e6f09497924287f93ae484af1b07b998",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-013",
+    "original_path": "/DnD Homebrew/Horizon_Walker_2024_Revision_Playtest_0_1(2).md",
+    "library_file_id": "libfile_1b37dc2150488191961985865b21d82b",
+    "sha256": "fec79550857b4fd1612dc8b82bf8d249e6f09497924287f93ae484af1b07b998",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/horizon-walker/versions/playtest-0.1-2026-10-15.md",
+    "preserved_sha256": "fec79550857b4fd1612dc8b82bf8d249e6f09497924287f93ae484af1b07b998",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-014",
+    "original_path": "/DnD Homebrew/Horizon_Walker_2024_Revision_Playtest_0_1(3).md",
+    "library_file_id": "libfile_100d28f89fb48191b06d7c1e498e403e",
+    "sha256": "fec79550857b4fd1612dc8b82bf8d249e6f09497924287f93ae484af1b07b998",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/horizon-walker/versions/playtest-0.1-2026-10-15.md",
+    "preserved_sha256": "fec79550857b4fd1612dc8b82bf8d249e6f09497924287f93ae484af1b07b998",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-015",
+    "original_path": "/DnD Homebrew/Horizon_Walker_2024_Revision_Playtest_0_1.md",
+    "library_file_id": "libfile_64c23fc9d9748191b8e760a393ae489a",
+    "sha256": "fec79550857b4fd1612dc8b82bf8d249e6f09497924287f93ae484af1b07b998",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/horizon-walker/versions/playtest-0.1-2026-10-15.md",
+    "preserved_sha256": "fec79550857b4fd1612dc8b82bf8d249e6f09497924287f93ae484af1b07b998",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-016",
+    "original_path": "/DnD Homebrew/Horizon_Walker_2024_Revision_Playtest_0_1_Editorial.md",
+    "library_file_id": "libfile_820bf3297c9481919b39a710dc0698b6",
+    "sha256": "e63498dee0199929a27b63f4999ad41fcbcc9c9bbbfa043eb19d2ebe0bd9a6c1",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/horizon-walker/archive/playtest-0.1-editorial.md",
+    "preserved_sha256": "e63498dee0199929a27b63f4999ad41fcbcc9c9bbbfa043eb19d2ebe0bd9a6c1",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-017",
+    "original_path": "/DnD Homebrew/PROJECT EVOLUTION TIMELINE(1).md",
+    "library_file_id": "libfile_6e0139049dc08191af6a7cd58c4f8347",
+    "sha256": "4810a0dbd049fbbcd1a1fc99e5ad6e02ad9230532617ab08e624642c286682dc",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/veteran-fighter/archive/evolution-timeline-through-2026-08-27.md",
+    "preserved_sha256": "4810a0dbd049fbbcd1a1fc99e5ad6e02ad9230532617ab08e624642c286682dc",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-018",
+    "original_path": "/DnD Homebrew/PROJECT EVOLUTION TIMELINE.md",
+    "library_file_id": "libfile_033526ae31548191b3e0f3c98b3c0fb1",
+    "sha256": "4810a0dbd049fbbcd1a1fc99e5ad6e02ad9230532617ab08e624642c286682dc",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/veteran-fighter/archive/evolution-timeline-through-2026-08-27.md",
+    "preserved_sha256": "4810a0dbd049fbbcd1a1fc99e5ad6e02ad9230532617ab08e624642c286682dc",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-019",
+    "original_path": "/DnD Homebrew/Pasted markdown(1).md",
+    "library_file_id": "libfile_2e00b8ea046c819198b6cc40246f7378",
+    "sha256": null,
+    "access": "unreadable-writing-block",
+    "preserved_destination": null
+  },
+  {
+    "source_id": "SRC-020",
+    "original_path": "/DnD Homebrew/Pasted markdown(2).md",
+    "library_file_id": "libfile_1e88a1757a508191ba354ab67fbeb9fa",
+    "sha256": null,
+    "access": "unreadable-writing-block",
+    "preserved_destination": null
+  },
+  {
+    "source_id": "SRC-021",
+    "original_path": "/DnD Homebrew/Pasted markdown(3).md",
+    "library_file_id": "libfile_0cf2b83db5d88191a4881a26f8cd0369",
+    "sha256": null,
+    "access": "unreadable-writing-block",
+    "preserved_destination": null
+  },
+  {
+    "source_id": "SRC-022",
+    "original_path": "/DnD Homebrew/Pasted markdown(4).md",
+    "library_file_id": "libfile_6951b9c676848191b38f0b1422d58bff",
+    "sha256": null,
+    "access": "unreadable-writing-block",
+    "preserved_destination": null
+  },
+  {
+    "source_id": "SRC-023",
+    "original_path": "/DnD Homebrew/Pasted markdown(5).md",
+    "library_file_id": "libfile_3295ed53737c8191aafae91e73096baa",
+    "sha256": null,
+    "access": "unreadable-writing-block",
+    "preserved_destination": null
+  },
+  {
+    "source_id": "SRC-024",
+    "original_path": "/DnD Homebrew/Pasted markdown(6).md",
+    "library_file_id": "libfile_cb192769e7648191ab2926683400b7fb",
+    "sha256": null,
+    "access": "unreadable-writing-block",
+    "preserved_destination": null
+  },
+  {
+    "source_id": "SRC-025",
+    "original_path": "/DnD Homebrew/Pasted markdown.md",
+    "library_file_id": "libfile_abf2d46fd71081919e0992558f4d4b8a",
+    "sha256": null,
+    "access": "unreadable-writing-block",
+    "preserved_destination": null
+  },
+  {
+    "source_id": "SRC-026",
+    "original_path": "/DnD Homebrew/Pasted text(1).txt",
+    "library_file_id": "libfile_f2ad7e8e139c81919f5003de7ddc41b3",
+    "sha256": "8954edcf47583763f94e3542b62b5516a82c2427c8bccde980d86f9247a7e884",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/horizon-walker/archive/redesign-request-2026-10-15.md",
+    "preserved_sha256": "8954edcf47583763f94e3542b62b5516a82c2427c8bccde980d86f9247a7e884",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-027",
+    "original_path": "/DnD Homebrew/Pasted text(2).txt",
+    "library_file_id": "libfile_f65b75a953b48191b298c1ac7360c9fa",
+    "sha256": "e085a1ee6cd37fd1f0b8c6bd0856894a590c23e2f9ecdd154e53e0e50d3143b5",
+    "access": "retrieved",
+    "preserved_destination": "audit/archive/organization-request-2026-10-23.md",
+    "preserved_sha256": "e085a1ee6cd37fd1f0b8c6bd0856894a590c23e2f9ecdd154e53e0e50d3143b5",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-028",
+    "original_path": "/DnD Homebrew/Pasted text.txt",
+    "library_file_id": "libfile_5736217363dc81919b57ad3a6d329d7a",
+    "sha256": "20f1481daae3f357444ec8b9feb0d66ba330067e097a81d47a35903ed9d895be",
+    "access": "retrieved",
+    "preserved_destination": "https://drive.google.com/file/d/148r87ijBVY_2nFZVB4XkWsS_6TH9TkSD/view?usp=drivesdk",
+    "archived_original_drive_file_id": "148r87ijBVY_2nFZVB4XkWsS_6TH9TkSD"
+  },
+  {
+    "source_id": "SRC-029",
+    "original_path": "/DnD Homebrew/VETERAN FIGHTER SUBCLASS — MASTER PROJECT HANDOFF(1).md",
+    "library_file_id": "libfile_83091144fdb4819196f31722e0bb5c1e",
+    "sha256": "c865f510486c8d96e45756ee85a8a45c03f865b014ada0ea7ee0a5a4dcab0cc1",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/veteran-fighter/archive/master-handoff-2026-08-27.md",
+    "preserved_sha256": "c865f510486c8d96e45756ee85a8a45c03f865b014ada0ea7ee0a5a4dcab0cc1",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-030",
+    "original_path": "/DnD Homebrew/VETERAN FIGHTER SUBCLASS — MASTER PROJECT HANDOFF.md",
+    "library_file_id": "libfile_f6a475e7e7748191a4c46c66f8d1a540",
+    "sha256": "c865f510486c8d96e45756ee85a8a45c03f865b014ada0ea7ee0a5a4dcab0cc1",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/veteran-fighter/archive/master-handoff-2026-08-27.md",
+    "preserved_sha256": "c865f510486c8d96e45756ee85a8a45c03f865b014ada0ea7ee0a5a4dcab0cc1",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-031",
+    "original_path": "/DnD Homebrew/Veteran Fighter Subclass Rulebook Page(1).png",
+    "library_file_id": "libfile_1cb653f427d48191be18bf35ccb80791",
+    "sha256": "896f84c0220786e57feaedef697cda807b11563e330bfcf5d101bc7ee57cefdd",
+    "access": "retrieved",
+    "preserved_destination": "https://drive.google.com/file/d/1DPQXwnDNbil7Idik_mZgf7_zwbqKwNSj/view?usp=drivesdk",
+    "archived_original_drive_file_id": "1DPQXwnDNbil7Idik_mZgf7_zwbqKwNSj"
+  },
+  {
+    "source_id": "SRC-032",
+    "original_path": "/DnD Homebrew/Veteran Fighter Subclass Rulebook Page(2).png",
+    "library_file_id": "libfile_57d77a274b20819199dc9f6ec4f3e9cc",
+    "sha256": "13875bac527981332cb179fdba4f9a5c4feebbcb5ad3a1368abb7333d01a7c19",
+    "access": "retrieved",
+    "preserved_destination": "https://drive.google.com/file/d/1O1DogRFmSdESB3Wq_EUQQY3z_WDfg9tg/view?usp=drivesdk",
+    "archived_original_drive_file_id": "1O1DogRFmSdESB3Wq_EUQQY3z_WDfg9tg"
+  },
+  {
+    "source_id": "SRC-033",
+    "original_path": "/DnD Homebrew/Veteran Fighter Subclass Rulebook Page(3).png",
+    "library_file_id": "libfile_df54799835f081919c3a3d5206973cd3",
+    "sha256": "dbc2f66b0b6e0f326535bdc442a41d5d3a696727ae4a7c6340cd7691cff503e5",
+    "access": "retrieved",
+    "preserved_destination": "https://drive.google.com/file/d/1LhjI1aoCW_y1guyTz9JTYnxCjg5GAPIw/view?usp=drivesdk",
+    "archived_original_drive_file_id": "1LhjI1aoCW_y1guyTz9JTYnxCjg5GAPIw"
+  },
+  {
+    "source_id": "SRC-034",
+    "original_path": "/DnD Homebrew/Veteran Fighter Subclass Rulebook Page.png",
+    "library_file_id": "libfile_ec80e96180108191a8c86e2ffae75b9a",
+    "sha256": "ae60e4e3c0bae138bda81dfe5bde3f0e1202092839cfeced9bf5ea18aec58849",
+    "access": "retrieved",
+    "preserved_destination": "https://drive.google.com/file/d/12wstKHtK1x08nAZQUJ7BDRx44y7axJ11/view?usp=drivesdk",
+    "archived_original_drive_file_id": "12wstKHtK1x08nAZQUJ7BDRx44y7axJ11"
+  },
+  {
+    "source_id": "SRC-035",
+    "original_path": "/DnD Homebrew/Veteran(1).md",
+    "library_file_id": "libfile_2d49053248008191b0d84363f601fa28",
+    "sha256": "c0dd822efaccac067a1d07256650f0163e6bdf2b081e7d21e76ae0f3b2a38492",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/veteran-fighter/versions/d4-1.md",
+    "preserved_sha256": "c0dd822efaccac067a1d07256650f0163e6bdf2b081e7d21e76ae0f3b2a38492",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-036",
+    "original_path": "/DnD Homebrew/Veteran.md",
+    "library_file_id": "libfile_1bd5142ec30c8191b295a6734d46559a",
+    "sha256": "c0dd822efaccac067a1d07256650f0163e6bdf2b081e7d21e76ae0f3b2a38492",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/veteran-fighter/versions/d4-1.md",
+    "preserved_sha256": "c0dd822efaccac067a1d07256650f0163e6bdf2b081e7d21e76ae0f3b2a38492",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-037",
+    "original_path": "/DnD Homebrew/Veteran_Attack_Action_Utility_Experiment_Report.md",
+    "library_file_id": "libfile_7595e499a1fc8191aa0eb8f41af22026",
+    "sha256": "5f46af9b5fce71d3652ed6a56474229832c9e42a54190353b7a771225d249c72",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/veteran-fighter/experiments/attack-utility-2026-10-05.md",
+    "preserved_sha256": "5f46af9b5fce71d3652ed6a56474229832c9e42a54190353b7a771225d249c72",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-038",
+    "original_path": "/DnD Homebrew/Veteran_Current_State_Addendum_2026-09-30.md",
+    "library_file_id": "libfile_c07f7ee3be688191a681b6c174f222e4",
+    "sha256": "d0d4cacc39ff0e6037f84d3787b50f8c8b9a0807880c7c72dcf1057bb12b2358",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/veteran-fighter/archive/current-state-addendum-2026-09-30.md",
+    "preserved_sha256": "d0d4cacc39ff0e6037f84d3787b50f8c8b9a0807880c7c72dcf1057bb12b2358",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-039",
+    "original_path": "/DnD Homebrew/Veteran_Fighter_Comprehensive_Current_State_Report_2026-10-05.md",
+    "library_file_id": "libfile_4522958325388191811d56e563a5b756",
+    "sha256": "aab5117c6fd11b6b3f384d35bd1679f9386871d22a9bc9fd2834e25342571c33",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/veteran-fighter/archive/current-state-2026-10-05.md",
+    "preserved_sha256": "aab5117c6fd11b6b3f384d35bd1679f9386871d22a9bc9fd2834e25342571c33",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-040",
+    "original_path": "/DnD Homebrew/Veteran_Fighter_Comprehensive_Mechanical_Balance_Audit_Prompt.md",
+    "library_file_id": "libfile_7ac5bc3abed08191901864ed45adca75",
+    "sha256": "a14d79204c8afa3bd61c023a621d70742695f8573aff068fb38e60af4f5f4946",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/veteran-fighter/archive/mechanical-audit-prompt-2026-10-07.md",
+    "preserved_sha256": "a14d79204c8afa3bd61c023a621d70742695f8573aff068fb38e60af4f5f4946",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-041",
+    "original_path": "/DnD Homebrew/Veteran_Fighter_Design_Investigation_2026-09-30.md",
+    "library_file_id": "libfile_7e42bd4e99dc8191a7d0fc23b87eaabb",
+    "sha256": "86a2dabf8b6df8d12d74151c7ddc4633e0a66926d6add0a44bcb67734d059275",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/veteran-fighter/archive/design-investigation-2026-09-30.md",
+    "preserved_sha256": "86a2dabf8b6df8d12d74151c7ddc4633e0a66926d6add0a44bcb67734d059275",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-042",
+    "original_path": "/DnD Homebrew/Veteran_Fighter_Subclass_D4_2.pdf",
+    "library_file_id": "libfile_b9f6e8bf679481918a29bc34b7eeb530",
+    "sha256": "bcd956a96300134c7228b5bc052ad761c20ee83881105aa9220a58855fe9f70e",
+    "access": "retrieved",
+    "preserved_destination": "https://drive.google.com/file/d/13pS05pj6mvO6fgpFMKeRj4Rsk-4SF_ct/view?usp=drivesdk",
+    "archived_original_drive_file_id": "13pS05pj6mvO6fgpFMKeRj4Rsk-4SF_ct"
+  },
+  {
+    "source_id": "SRC-043",
+    "original_path": "/DnD Homebrew/Veteran_Fighter_chat_transcript(1).txt",
+    "library_file_id": "libfile_0e6cd4f380a48191b59172113fe5b042",
+    "sha256": "a7f0e96d3eeaa9d7eada60ee68130ec99306cdfbf0b4e0c1dbdff3bb8bc32a2d",
+    "access": "retrieved",
+    "preserved_destination": "https://drive.google.com/file/d/1CbmctGQvL1JRcE5cZkL4H1tKThPyVRko/view?usp=drivesdk"
+  },
+  {
+    "source_id": "SRC-044",
+    "original_path": "/DnD Homebrew/Veteran_Fighter_chat_transcript.txt",
+    "library_file_id": "libfile_e4416447e95481918a3c0bbb2eddce87",
+    "sha256": "a7f0e96d3eeaa9d7eada60ee68130ec99306cdfbf0b4e0c1dbdff3bb8bc32a2d",
+    "access": "retrieved",
+    "preserved_destination": "https://drive.google.com/file/d/1CbmctGQvL1JRcE5cZkL4H1tKThPyVRko/view?usp=drivesdk",
+    "archived_original_drive_file_id": "1CbmctGQvL1JRcE5cZkL4H1tKThPyVRko"
+  },
+  {
+    "source_id": "SRC-045",
+    "original_path": "/DnD Homebrew/Veteran_Level_3_Combat_Identity_2026-09-30.md",
+    "library_file_id": "libfile_7dfee30028b081919ed8343b41354f94",
+    "sha256": "d319477ea05e23f380e765792a874ee68284d5703b8145848a02638d946ffecf",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/veteran-fighter/archive/level-3-combat-identity-2026-09-30.md",
+    "preserved_sha256": "d319477ea05e23f380e765792a874ee68284d5703b8145848a02638d946ffecf",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-046",
+    "original_path": "/DnD Homebrew/Veteran_Level_3_Combat_Identity_2026-09-30.pdf",
+    "library_file_id": "libfile_4279a04c45208191815afbf8dc2a82f3",
+    "sha256": "f94e220bb839c3ea9cfeb8268fc5bb809405123f2f4639920b894783fded4de4",
+    "access": "retrieved",
+    "preserved_destination": "https://drive.google.com/file/d/1u-59XhtsWwwAbl8qxPJA3_UVdlf4VMDe/view?usp=drivesdk",
+    "archived_original_drive_file_id": "1u-59XhtsWwwAbl8qxPJA3_UVdlf4VMDe"
+  },
+  {
+    "source_id": "SRC-047",
+    "original_path": "/DnD Homebrew/Veteran_Level_3_Model_2026-09-30.json",
+    "library_file_id": "libfile_f4affd80be288191b87de7e2d780a0bd",
+    "sha256": "6a86ea7de4fd1d57d456c6fc4e0c4d7f56235f3f3ed76ea8c6fb4bf6131ff592",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/veteran-fighter/archive/level-3-model-2026-09-30.json",
+    "preserved_sha256": "6a86ea7de4fd1d57d456c6fc4e0c4d7f56235f3f3ed76ea8c6fb4bf6131ff592",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-048",
+    "original_path": "/DnD Homebrew/Veteran_Mechanical_Balance_Audit_2026-10-07(1).md",
+    "library_file_id": "libfile_30a3d08fd8c88191a6e37ce5defdb72d",
+    "sha256": "fb7e018a41fecbd79493b80eebed9ec55199f1c5badbe447d9ce60aa4f36cc91",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/veteran-fighter/archive/mechanical-audit-2026-10-07.md",
+    "preserved_sha256": "fb7e018a41fecbd79493b80eebed9ec55199f1c5badbe447d9ce60aa4f36cc91",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-049",
+    "original_path": "/DnD Homebrew/Veteran_Mechanical_Balance_Audit_2026-10-07.md",
+    "library_file_id": "libfile_510d2ad156d08191884ad743f3fe73d8",
+    "sha256": "fb7e018a41fecbd79493b80eebed9ec55199f1c5badbe447d9ce60aa4f36cc91",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/veteran-fighter/archive/mechanical-audit-2026-10-07.md",
+    "preserved_sha256": "fb7e018a41fecbd79493b80eebed9ec55199f1c5badbe447d9ce60aa4f36cc91",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-050",
+    "original_path": "/DnD Homebrew/Veteran_Public_Test_1_Subclass_Pages.pdf",
+    "library_file_id": "libfile_b56f7d9614ec8191a76daffef1589c81",
+    "sha256": "1d6b64abb2025d71776df85010fdde3aad5861d6513fac914441192a2fb5eddb",
+    "access": "retrieved",
+    "preserved_destination": "https://drive.google.com/file/d/1tOLfa9sKPACzNbiKTwv5zNZ9ULiXIYB_/view?usp=drivesdk",
+    "archived_original_drive_file_id": "1tOLfa9sKPACzNbiKTwv5zNZ9ULiXIYB_"
+  },
+  {
+    "source_id": "SRC-051",
+    "original_path": "/DnD Homebrew/Veteran_Work_Context_Pack.md",
+    "library_file_id": "libfile_ca5ea2af79bc8191bbd4d2c815dc3997",
+    "sha256": "6dd17d81483f78584097ad89f27f7574d2a5e65f2bd72fb1b5698cf9113727ca",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/veteran-fighter/archive/work-context-pack-2026-09-30.md",
+    "preserved_sha256": "6dd17d81483f78584097ad89f27f7574d2a5e65f2bd72fb1b5698cf9113727ca",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-052",
+    "original_path": "/DnD Homebrew/Veteran_Work_Deep_Research_Prompt.md",
+    "library_file_id": "libfile_8b8038376cc48191912ff8e547d0b15d",
+    "sha256": "313ad76ff05366a38470bd9a00abde38ca9ad8b28846af30df773426e0e99d44",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/veteran-fighter/archive/research-prompt-2026-09-30.md",
+    "preserved_sha256": "313ad76ff05366a38470bd9a00abde38ca9ad8b28846af30df773426e0e99d44",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-053",
+    "original_path": "/DnD Homebrew/Veteran_Work_Source_Guide.md",
+    "library_file_id": "libfile_04fd534dbf3881918ae253b55d73c408",
+    "sha256": "fb727b9f352817d0a79d79fbb7ab3fef3e7a2a3daa4ada3484b9b4a6b0aa8a3f",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/veteran-fighter/archive/work-source-guide-2026-09-30.md",
+    "preserved_sha256": "fb727b9f352817d0a79d79fbb7ab3fef3e7a2a3daa4ada3484b9b4a6b0aa8a3f",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-054",
+    "original_path": "/DnD Homebrew/Veteran_Work_Upload_Pack.zip",
+    "library_file_id": "libfile_341648f4f4b08191aac2ba5da4057bc7",
+    "sha256": "316e5f31a70594fa07b828e606db2574cffaa89799f4fbff2ef37df6ec1b6141",
+    "access": "retrieved",
+    "preserved_destination": "https://drive.google.com/file/d/1zz04Ll5XsvazH7ha0Ye8CxXrhaBcsgMj/view?usp=drivesdk",
+    "archived_original_drive_file_id": "1zz04Ll5XsvazH7ha0Ye8CxXrhaBcsgMj"
+  },
+  {
+    "source_id": "SRC-055",
+    "original_path": "/DnD Homebrew/build_veteran_report.py",
+    "library_file_id": "libfile_554991dbc03c819183331cd9bd6676f7",
+    "sha256": "0bc360b269ded6a37b5f310623025d24b0d77061bf9a8bbbc5ee22afdb75f331",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/veteran-fighter/archive/build-veteran-report.py",
+    "preserved_sha256": "0bc360b269ded6a37b5f310623025d24b0d77061bf9a8bbbc5ee22afdb75f331",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-056",
+    "original_path": "/DnD Homebrew/deep-research-report(1).md",
+    "library_file_id": "libfile_61857401eef48191ac4a69e26c60badb",
+    "sha256": "b8a58db1d446c5237b358a750f5645ac172f5bb068eb140f902004844433cbb0",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/veteran-fighter/archive/initial-design-research.md",
+    "preserved_sha256": "b8a58db1d446c5237b358a750f5645ac172f5bb068eb140f902004844433cbb0",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-057",
+    "original_path": "/DnD Homebrew/deep-research-report(7).md",
+    "library_file_id": "libfile_f87bf8ba1b7c81919699a409a13b427a",
+    "sha256": "f637fcbb6fcda260c5d2926321d842e15bd6af95926d6f5a6afebde8a3b5a4ef",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/bartitsu-rogue/archive/historical-foundations.md",
+    "preserved_sha256": "f637fcbb6fcda260c5d2926321d842e15bd6af95926d6f5a6afebde8a3b5a4ef",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-058",
+    "original_path": "/DnD Homebrew/veteran_fighter_subclass.pdf",
+    "library_file_id": "libfile_57bac76ac7f481918a76b86b75991fd3",
+    "sha256": "8b0e13977f7ebacb9611bd6f329de97e78a8c37eeeee3425e553be38c296a67e",
+    "access": "retrieved",
+    "preserved_destination": "https://drive.google.com/file/d/1Ht6Nkd6zrXRMGHzSJm0upqKUIQwCH6xc/view?usp=drivesdk",
+    "archived_original_drive_file_id": "1Ht6Nkd6zrXRMGHzSJm0upqKUIQwCH6xc"
+  },
+  {
+    "source_id": "SRC-059",
+    "original_path": "/Executive Verdict",
+    "library_file_id": "libfile_0a0228cfb5488191a37aadc0ec1074e0",
+    "sha256": "d1c2708208177f07d6b9c042e32fb00674d49cbbdcbe59c8deaabd304e59f0ad",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/bartitsu-rogue/archive/originality-review-2026-10-05.md",
+    "preserved_sha256": "7b4eb6ca8367f77c07cd61d56fc4f449ac6efa686ae96195d5123fe91b6c1b5a",
+    "exact_original_bytes": false
+  },
+  {
+    "source_id": "SRC-060",
+    "original_path": "/Veteran Fighter Follow-Up: Quantifying Opportunity Attacks, the d10 Damage Rider, Spot the Shooter, and Size Up",
+    "library_file_id": "libfile_d9f625e4b0688191a4b6219fcb11f161",
+    "sha256": "37a6ec75bf1dfa099c694dcb155190be04058345ce12042e6bd0913bdd460daf",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/veteran-fighter/archive/reaction-damage-follow-up-research.md",
+    "preserved_sha256": "4188c605d1304066d2a72a0d075ce785c7c9c5c474a90f8efed4c19e7e1de980",
+    "exact_original_bytes": false
+  },
+  {
+    "source_id": "SRC-061",
+    "original_path": "/Veteran Fighter Subclass: Design, Balance, and Optimization Research Report",
+    "library_file_id": "libfile_a04e176b2f8c8191aa77b24d434aec2b",
+    "sha256": "36b10a25f41b57ec927634062ab93889f897dcb15763fa441f5a19c825c6d8f7",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/veteran-fighter/archive/initial-design-research.md",
+    "preserved_sha256": "b8a58db1d446c5237b358a750f5645ac172f5bb068eb140f902004844433cbb0",
+    "exact_original_bytes": false
+  },
+  {
+    "source_id": "SRC-062",
+    "original_path": "/Veteran Fighter Subclass: Iteration D",
+    "library_file_id": "libfile_42f4e42779fc8191ab7cf7831a25286e",
+    "sha256": "d4d8799592a7964c3aee130236fb09affd67ebec116062412304ed1aae813883",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/veteran-fighter/archive/iteration-d-research.md",
+    "preserved_sha256": "94f8a349480a2bcedc0e14795634c40ff5a26866b917ab9ac19128ea2f364704",
+    "exact_original_bytes": false
+  },
+  {
+    "source_id": "SRC-063",
+    "original_path": "/Veteran Lessons in Iteration D.4: Ranking, Interaction, and Pruning Report",
+    "library_file_id": "libfile_eb914332004c8191a8269433f9ee9612",
+    "sha256": "44cd06880a58cd1b4154d625292088666518ddec3556848a081cb5c3d321c752",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/veteran-fighter/archive/lesson-ranking-d4-research.md",
+    "preserved_sha256": "1b0f98cd16d3351ac3074576d30913652bff9771f46b6999a41bf54cc2414bfa",
+    "exact_original_bytes": false
+  },
+  {
+    "source_id": "SRC-064",
+    "original_path": "/Veteran — Change the Plan Follow-Up Investigation — 2026-09-30.txt",
+    "library_file_id": "libfile_c9e2d34e15a08191800de4accc389a5e",
+    "sha256": "18db05c9b93118a5a4e5f1bf1f7af2b3150f9a56488aca868f2dd7899ff182e8",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/veteran-fighter/archive/change-the-plan-follow-up-2026-09-30.md",
+    "preserved_sha256": "18db05c9b93118a5a4e5f1bf1f7af2b3150f9a56488aca868f2dd7899ff182e8",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-065",
+    "original_path": "/Veteran_Audit_Calculations_2026-10-05.zip",
+    "library_file_id": "libfile_e614593c67bc81918a0f30e7da528714",
+    "sha256": "7ff291fd012e0731d4ecaea590c145de6ccbe0b5a3502be91c0faf88bdb16111",
+    "access": "retrieved",
+    "preserved_destination": "https://drive.google.com/file/d/1mt22glxBbAzetWj-UbMyeoWTY7wYGoAB/view?usp=drivesdk",
+    "archived_original_drive_file_id": "1mt22glxBbAzetWj-UbMyeoWTY7wYGoAB"
+  },
+  {
+    "source_id": "SRC-066",
+    "original_path": "/Veteran_Current_State_Addendum_2026-09-30.md",
+    "library_file_id": "libfile_f4922653f4548191a75fe55702184e8e",
+    "sha256": "d0d4cacc39ff0e6037f84d3787b50f8c8b9a0807880c7c72dcf1057bb12b2358",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/veteran-fighter/archive/current-state-addendum-2026-09-30.md",
+    "preserved_sha256": "d0d4cacc39ff0e6037f84d3787b50f8c8b9a0807880c7c72dcf1057bb12b2358",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-067",
+    "original_path": "/Veteran_Fighter_Pre_Playtest_Audit_2026-10-05.md",
+    "library_file_id": "libfile_652c28d762888191b9d7ab4b22d1dd09",
+    "sha256": "8fb92421191f46c978a87880f780b3ea826332a86dd077aafceca2bcb840c7a0",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/veteran-fighter/archive/pre-playtest-audit-2026-10-05.md",
+    "preserved_sha256": "8fb92421191f46c978a87880f780b3ea826332a86dd077aafceca2bcb840c7a0",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-068",
+    "original_path": "/Veteran_Level_3_Combat_Identity_2026-09-30.md",
+    "library_file_id": "libfile_e558c5efb6848191a5d73ca72285b372",
+    "sha256": "d319477ea05e23f380e765792a874ee68284d5703b8145848a02638d946ffecf",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/veteran-fighter/archive/level-3-combat-identity-2026-09-30.md",
+    "preserved_sha256": "d319477ea05e23f380e765792a874ee68284d5703b8145848a02638d946ffecf",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-069",
+    "original_path": "/Veteran_Level_3_Combat_Identity_2026-09-30.pdf",
+    "library_file_id": "libfile_76bd08ab98d88191b108556bd894e77d",
+    "sha256": "f94e220bb839c3ea9cfeb8268fc5bb809405123f2f4639920b894783fded4de4",
+    "access": "retrieved",
+    "preserved_destination": "https://drive.google.com/file/d/1u-59XhtsWwwAbl8qxPJA3_UVdlf4VMDe/view?usp=drivesdk"
+  },
+  {
+    "source_id": "SRC-070",
+    "original_path": "/Veteran_Public_Test_1.md",
+    "library_file_id": "libfile_6d63ed048030819185c8c36d14ececcd",
+    "sha256": "814c159aeec1b1557eb26203fc24511b8174be03685caed9198fa6f234504fc3",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/veteran-fighter/versions/public-test-1-2026-10-05.md",
+    "preserved_sha256": "814c159aeec1b1557eb26203fc24511b8174be03685caed9198fa6f234504fc3",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-071",
+    "original_path": "/Veteran_Work_Context_Pack(1).md",
+    "library_file_id": "libfile_f1dfc00b84e8819185a886dbf39a3ca5",
+    "sha256": "6dd17d81483f78584097ad89f27f7574d2a5e65f2bd72fb1b5698cf9113727ca",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/veteran-fighter/archive/work-context-pack-2026-09-30.md",
+    "preserved_sha256": "6dd17d81483f78584097ad89f27f7574d2a5e65f2bd72fb1b5698cf9113727ca",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-072",
+    "original_path": "/Veteran_Work_Context_Pack.md",
+    "library_file_id": "libfile_ef076a7176b881919ab2400e55863f68",
+    "sha256": "6dd17d81483f78584097ad89f27f7574d2a5e65f2bd72fb1b5698cf9113727ca",
+    "access": "retrieved",
+    "preserved_destination": "subprojects/veteran-fighter/archive/work-context-pack-2026-09-30.md",
+    "preserved_sha256": "6dd17d81483f78584097ad89f27f7574d2a5e65f2bd72fb1b5698cf9113727ca",
+    "exact_original_bytes": true
+  },
+  {
+    "source_id": "SRC-073",
+    "original_path": "/finakechi_75829295.pdf",
+    "library_file_id": "libfile_b00b5e42a89481919d6afabc7ed7750f",
+    "sha256": "d5345b0814f41536d42cdb39aed378dc28a3d6e0a672fe6abcf6b3010877edc5",
+    "access": "retrieved",
+    "preserved_destination": "https://drive.google.com/file/d/1YynLtXrvVLASXkEDkUL_eku3bcAyNf4T/view?usp=drivesdk",
+    "archived_original_drive_file_id": "1YynLtXrvVLASXkEDkUL_eku3bcAyNf4T"
+  }
+]
