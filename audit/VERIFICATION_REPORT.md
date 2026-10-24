@@ -1,6 +1,6 @@
 # Verification report
 
-Verified locally and in Drive on 2026-10-23 (America/New_York). GitHub installation readback will be appended after the organization commit. This file is a measured checkpoint, not a claim of complete conversation access.
+Verified on 2026-10-23 (America/New_York) after implementation. Local and connected-tool readback completed. This is verification of the stated scope, not a claim of complete conversation access.
 
 ## Checks completed
 
@@ -11,6 +11,17 @@ Verified locally and in Drive on 2026-10-23 (America/New_York). GitHub installat
 - Drive readback verified 19 files’ MIME type, original byte size and designated parent; all returned shared=false. Re-listed all five folders: Veteran 12, Bartitsu 3, Horizon 2, Hearth 1, Amadeus 1. No sharing change or file relocation performed.
 - Current rules, proposed changes and experiments remain distinct. Major conflict/recovery records retain competing sources.
 - Project Instructions fit in a concise maintained master (about 3,600 characters); no tool can install them into the Project field.
+
+## GitHub and navigation readback
+
+- Audit checkpoint: [b14e5b20](https://github.com/finakechi/DnDHomebrew/commit/b14e5b20e29fa91ff7f53133a66e9f0ce6c7507c), committed before organization.
+- Organization: [ceb9d9a6](https://github.com/finakechi/DnDHomebrew/commit/ceb9d9a6503c57d2d532b4cff05e5cc52a39fad9). Main was read back at this commit.
+- Complete recursive tree returned 106 files, with no truncation, missing files, unexpected files or blob-hash mismatches against the prepared contents. This verifies exact repository bytes, including preserved source snapshots.
+- Independently fetched the central index/status, governance, Instructions, conflict register and all seven subproject status records through the connector after installation; all returned expected text.
+- Checked 525 new relative file references and two explicit current-rules section anchors: zero broken references. Historical imported report links were deliberately excluded from this navigation result and remain covered by C-013.
+- Rechecked preservation manifest hashes: zero mismatches. Original retained source bytes and extracted renditions are distinguished; no claim that a Markdown rendition is byte-identical to a DOCX/container.
+- Inspected each index/status handoff for project identity, source/version, approval limits, next action and outdated/missing-source warnings. All seven workstreams supply those fields, including explicit unknowns where rules are missing.
+- The follow-up verification commit updates this report and the organization log only; it changes no design or preserved original source.
 
 ## Limits
 
