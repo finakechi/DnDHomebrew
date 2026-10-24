@@ -27,3 +27,10 @@ See VERIFICATION_REPORT.md for actual remote readback, source preservation and n
 - Checked 525 new relative links and two current-rules anchors with no broken links; preservation manifest hashes matched.
 - Verified all 19 Drive assets by metadata and five folder listings; original sizes/parents/MIME types match and sharing remains unchanged.
 - Seven dated handoff sets support continuation while clearly identifying missing source mechanics. Final assessment is 20/25; detailed limits and manual actions remain in VERIFICATION_REPORT.md.
+
+## October 23 targeted source recovery
+
+- Re-read current handoffs; searched Library content/titles and three bounded creation-time inventories, targeted conversation retrieval and accessible Drive names/content.
+- Found and read two earlier external documents; preserved their source pointers without copying, editing or relocating them. Excluded them as the requested missing originals.
+- Added the recovery report and precise message/export requirements. C-001/C-002/C-010 remain open; no missing mechanics reconstructed or proposals adopted.
+- Updated relevant status/history/asset/coverage records so subsequent sessions can resume from this actual recovery result.

@@ -19,4 +19,10 @@ Last verified: 2026-10-23 (America/New_York).
 **Sources:** [current-design boundary](CURRENT_DESIGN.md), [asset index](assets/ASSET_INDEX.md), audit C-010 and [coverage notes](../../audit/ACCESS_AND_RECOVERY.md).
 
 
+## Source recovery follow-up
+
+The [October 23 recovery attempt](../../audit/recovery/2026-10-23-veteran-amadeus.md) found and read a 2023 **Amadeus Cheat Sheet** in Drive. It is an earlier PC reference, not the missing monster block. Conversation retrieval yielded additional feature-name/search clues and a likely October 7 response time, but no complete original text or stable message link.
+
+**Next recovery step:** obtain the complete “Runebound Loup Garou” response and follow-up amendments from the originating chat. The older cheat sheet and retrieved summaries must not supply invented monster statistics.
+
 [Overview](README.md) · [Status](STATUS.md) · [Current design](CURRENT_DESIGN.md) · [Decisions](DECISIONS.md) · [History](HISTORY.md) · [Open questions](OPEN_QUESTIONS.md) · [Assets](assets/ASSET_INDEX.md) · [Project index](../../PROJECT_INDEX.md)

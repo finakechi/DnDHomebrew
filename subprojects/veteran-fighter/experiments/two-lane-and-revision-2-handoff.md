@@ -17,3 +17,7 @@ The exact relationship between this proposal and A/A.1 is unresolved. Preserve b
 ## Recovery task
 
 Recover the complete exchanges/drafts from their originating conversations or a readable export; compare mechanical differences; record the branch selected for continued work. Then add exact rules to a separately identified experiment. See C-001/C-002 in the [conflict register](../../../audit/CONFLICT_REGISTER.md).
+
+## October 23 recovery attempt
+
+A further targeted search did not retrieve the complete original bodies. See the [recovery record](../../../audit/recovery/2026-10-23-veteran-amadeus.md) for searches already completed and the exact messages still needed. Revision 2 retrieval points to a 2026-10-23T21:54:06Z response following a sourcebook-style/group-by-action request; this is a summary-derived locator, not inspected message metadata. The separately found September 30 Drive document is earlier Change the Plan research, not either later experiment. No version or approval state changed.

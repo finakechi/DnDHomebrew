@@ -27,4 +27,8 @@ The visible October 7 experimental thread approves independent A/A.1 lanes and f
 Preserved one indexed copy per recovered source; retained duplicate identities in the audit inventory; copied visual/complex assets and raw discussions into designated Drive storage. Added current-state and conflict records. No mechanics changed, experiments promoted or data deleted.
 
 
+## October 23 source recovery follow-up
+
+Completed targeted Library, conversation-context and Drive searches. Read two earlier external documents and recorded their different purposes. Full requested later drafts/stat block remain unavailable through the current tools. Added verified source pointers and a [precise original-message recovery list](../../audit/recovery/2026-10-23-veteran-amadeus.md); no mechanics reconstructed or approval inferred.
+
 [Overview](README.md) · [Status](STATUS.md) · [Current design](CURRENT_DESIGN.md) · [Decisions](DECISIONS.md) · [History](HISTORY.md) · [Open questions](OPEN_QUESTIONS.md) · [Assets](assets/ASSET_INDEX.md) · [Project index](../../PROJECT_INDEX.md)

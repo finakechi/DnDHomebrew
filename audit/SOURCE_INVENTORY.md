@@ -103,3 +103,7 @@ Read coverage means the file was retrieved and indexed/extracted; the audit revi
 - StormKingBigby/source-restoration artifacts were discovered as metadata in a separate project. They were not treated as DnDHomebrew design masters.
 - Complete A/A.1 and Proposed Playtest Revision 2, original Bartitsu design chat, Amadeus monster response, earlier April system comparison, and full prior research answers remain unrecovered. See ACCESS_AND_RECOVERY.md.
 - Raw report containers remain original attachments; only their final visible reports were imported, avoiding internal activity/transport metadata. See [recovered citation URLs](ARCHIVED_SOURCE_LINKS.md); the cited historical report rendition is preserved separately from its plain Markdown export. Original hashes identify the containers; the preservation manifest separately hashes the extracted files.
+
+## Source recovery supplement — October 23
+
+Two external Drive documents were found and read during the [Veteran/Amadeus recovery attempt](recovery/2026-10-23-veteran-amadeus.md): REC-GD-001, a 2023 Amadeus PC cheat sheet; and REC-GD-002, September 30 Veteran Change the Plan research. Both remain in their original locations and are indexed from the relevant asset record. Neither is a requested missing output. The initial 73-attachment inventory and its hashes remain unchanged; no duplicate attachment identities or new claimed complete drafts were added.

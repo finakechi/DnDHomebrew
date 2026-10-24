@@ -18,3 +18,7 @@ The initial audit is recorded and additive organization is implemented. The work
 Manually paste [CHATGPT_PROJECT_INSTRUCTIONS.md](CHATGPT_PROJECT_INSTRUCTIONS.md) into this ChatGPT Project's Instructions field. No tool here can update that field or persistent memory. Seven older writing blocks and missing complete chats/drafts are listed in [ACCESS_AND_RECOVERY.md](audit/ACCESS_AND_RECOVERY.md).
 
 Use [MAINTENANCE.md](MAINTENANCE.md) during relevant sessions. No background synchronization or scheduled task exists. The [verification report](audit/VERIFICATION_REPORT.md) records checks and limitations; [CONFLICT_REGISTER.md](audit/CONFLICT_REGISTER.md) preserves unsettled precedence rather than guessing it.
+
+## Source recovery follow-up
+
+The [October 23 recovery attempt](audit/recovery/2026-10-23-veteran-amadeus.md) found an older Amadeus cheat sheet and an external copy of September 30 Veteran research. Complete A/A.1, Revision 2 and Amadeus monster outputs remain unrecovered. Exact message/export requirements are now documented; existing working-version and approval states remain unchanged.

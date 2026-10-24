@@ -28,3 +28,7 @@ The seven `/DnD Homebrew/` items `Pasted markdown.md` and `Pasted markdown(1).md
 Shadowdark's own live repository/Drive remain authoritative; only the audit's stated files/root listing were reviewed. Its private campaign boundaries were not read or copied. StormKingBigby is a separate related campaign, not comprehensively audited here. Paid book interiors and every external bibliography were not re-researched. Current official rules need focused reverification when new mechanics depend on them.
 
 No scheduled automation, continuous monitoring, automatic two-way synchronization or persistent-memory write was established. Use MAINTENANCE.md at actual working sessions or in an explicitly scheduled task.
+
+## Follow-up attempt — October 23
+
+The [targeted recovery record](recovery/2026-10-23-veteran-amadeus.md) documents additional Library, conversation and Drive searches. Older source pointers were recovered, but complete Veteran A/A.1, Revision 2 and Amadeus monster messages remain unavailable. The next necessary input is readable copies of the relevant original messages and amendments from their originating chats, grouped as specified there. No account-wide export or new mechanical reconstruction is needed.

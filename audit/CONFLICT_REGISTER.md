@@ -19,3 +19,7 @@ Last verified: 2026-10-23 (America/New_York). “Open” means substantive evide
 | C-013 | Archived source links/citation tokens vs current navigable links | Original reports contain historical sandbox/tool-reference citations that may not resolve outside their originating chat | Preserve immutable text, index original identity, retain retrievable citation metadata separately; new working navigation must resolve. Reverify references when needed. | Known archival limitation |
 
 For a resolution, append the explicit evidence, date, scope and resulting version/commit. Never remove competing source records merely because a conflict is closed.
+
+## October 23 recovery follow-up
+
+C-001/C-002/C-010 remain open after the [targeted source-recovery attempt](recovery/2026-10-23-veteran-amadeus.md). Retrieved locators and the older Drive documents do not resolve missing full rules or adoption. The 2023 Amadeus cheat sheet is distinct from the 2026 monster output; the September 30 Veteran document is distinct from later A/A.1 and Revision 2. No numbers, exact wording or canon precedence were filled from summaries.

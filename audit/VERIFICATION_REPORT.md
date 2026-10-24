@@ -45,3 +45,7 @@ Total: 20/25. Scores assess this organizational result and its declared scope, n
 2. Recover full Veteran A/A.1/Revision 2 and Amadeus monster text before depending on exact mechanics.
 3. Recover the seven unreadable writing blocks if available from their originating chats.
 4. Continue each design from its STATUS.md; perform future maintenance in actual sessions or an explicitly scheduled task.
+
+## Targeted source recovery follow-up
+
+The [October 23 recovery record](recovery/2026-10-23-veteran-amadeus.md) adds two completely read external-source pointers and documents the unsuccessful search for the full original messages. This is a separate documentation follow-up to the organization checks above; it does not change the original 73-attachment inventory, 19 designated assets or game designs. Relevant current records still mark the requested outputs as missing, rather than claiming full recovery from summaries. The recovery changes were checked for relative-link validity and preservation of source-manifest hashes before commit; the changed remote files were then verified against their prepared Git blob hashes. The original organization scores remain 20/25 because no complete missing design was recovered.

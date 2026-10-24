@@ -22,3 +22,7 @@ Working text lives in GitHub; original documents/exports remain frozen source sn
 | [Veteran_Community_Feedback_2026-10-07.txt](https://drive.google.com/file/d/148r87ijBVY_2nFZVB4XkWsS_6TH9TkSD/view?usp=drivesdk) | Community discussion input; preserve context without treating participants’ advice as user decisions. Original attachment: `DnD Homebrew/Pasted text.txt`. | `20f1481daae3f357444ec8b9feb0d66ba330067e097a81d47a35903ed9d895be` |
 
 [Subproject status](../STATUS.md) · [Source inventory](../../../audit/SOURCE_INVENTORY.md)
+
+## Additional external source pointer
+
+[September 30 Change the Plan follow-up](https://docs.google.com/document/d/1NrQlz-iMpyrVBKE5Tf988t5Nq2wuNT_bg1KQwneyqOE/edit?usp=drivesdk) was read completely during the recovery attempt. It remains in its original Drive location; the corresponding text is already in the GitHub archive. It is earlier advisory research, not A/A.1 or Revision 2. See [REC-GD-002](../../../audit/recovery/2026-10-23-veteran-amadeus.md).
