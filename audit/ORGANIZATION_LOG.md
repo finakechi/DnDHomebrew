@@ -34,3 +34,9 @@ See VERIFICATION_REPORT.md for actual remote readback, source preservation and n
 - Found and read two earlier external documents; preserved their source pointers without copying, editing or relocating them. Excluded them as the requested missing originals.
 - Added the recovery report and precise message/export requirements. C-001/C-002/C-010 remain open; no missing mechanics reconstructed or proposals adopted.
 - Updated relevant status/history/asset/coverage records so subsequent sessions can resume from this actual recovery result.
+
+## October 24 supplied Veteran bundle
+
+- Inspected all two ZIP members and compared full SHA-256 hashes with the live preservation manifest.
+- Both match already archived feedback/audit sources; no missing experimental draft or monster output recovered.
+- Added a container inspection record and updated the Veteran handoff/inventory without duplicating source files or changing mechanics, canon, Drive assets or sharing.

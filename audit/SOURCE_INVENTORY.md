@@ -107,3 +107,7 @@ Read coverage means the file was retrieved and indexed/extracted; the audit revi
 ## Source recovery supplement — October 23
 
 Two external Drive documents were found and read during the [Veteran/Amadeus recovery attempt](recovery/2026-10-23-veteran-amadeus.md): REC-GD-001, a 2023 Amadeus PC cheat sheet; and REC-GD-002, September 30 Veteran Change the Plan research. Both remain in their original locations and are indexed from the relevant asset record. Neither is a requested missing output. The initial 73-attachment inventory and its hashes remain unchanged; no duplicate attachment identities or new claimed complete drafts were added.
+
+## Uploaded bundle supplement — October 24
+
+`Veteran_Chat_Files(1).zip`, Library ID `libfile_36a8530ff73c81919eb2e555c9afa5d6`, is an additional supplied container. Its two members exactly match SRC-028 and SRC-048/SRC-049. The [inspection record](recovery/2026-10-24-veteran-chat-files.md) records container/member hashes and destinations. No new distinct design document was recovered, no member copy was added, and initial audit counts remain historical counts rather than claims of a recovered draft.

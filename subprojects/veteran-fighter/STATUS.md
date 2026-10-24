@@ -1,6 +1,6 @@
 # Veteran Fighter status
 
-Last verified: 2026-10-23 (America/New_York). Administrative verification; no new rules or playtest result adopted.
+Last verified: 2026-10-24 (America/New_York). Administrative verification; no new rules or playtest result adopted.
 
 **Stage:** active revision, experimental comparison and pre-playtest review.
 
@@ -26,5 +26,9 @@ Last verified: 2026-10-23 (America/New_York). Administrative verification; no ne
 The [October 23 recovery attempt](../../audit/recovery/2026-10-23-veteran-amadeus.md) checked targeted conversation retrieval, Library titles/content/creation windows and accessible Drive. It confirmed locator clues for Revision 2 but did not expose the complete A/A.1 or Revision 2 bodies. An earlier September 30 Drive research document was read and identified as a different source.
 
 **Next recovery step:** obtain the original A/A.1 draft/continuations and the complete Revision 2 sourcebook-style response from their originating chats. Current tools returned summaries only. Do not repeat the same searches as a substitute for obtaining those messages or treat this attempt as recovering playable rules.
+
+## October 24 attachment check
+
+The uploaded `Veteran_Chat_Files(1).zip` contains only the already archived community feedback and October 7 mechanical audit, with exact hash matches. It does not supply A/A.1 or Revision 2. See the [bundle inspection](../../audit/recovery/2026-10-24-veteran-chat-files.md). The next source remains the full original assistant messages or a conversation transcript containing them; no working-version or approval state changed.
 
 [Overview](README.md) · [Status](STATUS.md) · [Current design](CURRENT_DESIGN.md) · [Decisions](DECISIONS.md) · [History](HISTORY.md) · [Open questions](OPEN_QUESTIONS.md) · [Assets](assets/ASSET_INDEX.md) · [Project index](../../PROJECT_INDEX.md)

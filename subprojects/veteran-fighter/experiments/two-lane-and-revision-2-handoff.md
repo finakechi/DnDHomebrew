@@ -21,3 +21,7 @@ Recover the complete exchanges/drafts from their originating conversations or a 
 ## October 23 recovery attempt
 
 A further targeted search did not retrieve the complete original bodies. See the [recovery record](../../../audit/recovery/2026-10-23-veteran-amadeus.md) for searches already completed and the exact messages still needed. Revision 2 retrieval points to a 2026-10-23T21:54:06Z response following a sourcebook-style/group-by-action request; this is a summary-derived locator, not inspected message metadata. The separately found September 30 Drive document is earlier Change the Plan research, not either later experiment. No version or approval state changed.
+
+## October 24 attachment bundle check
+
+The supplied ZIP has two members, both exact duplicates of the existing community feedback and mechanical audit. It contains no full A/A.1 or Revision 2 text. See the [inspection record](../../../audit/recovery/2026-10-24-veteran-chat-files.md). Obtain the actual assistant messages or a conversation export containing their bodies; an attachment-only bundle does not fill this gap.
