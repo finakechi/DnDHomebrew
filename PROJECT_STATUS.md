@@ -4,7 +4,13 @@ Last verified: 2026-10-24 (America/New_York) for Veteran source recovery; no new
 
 The initial audit is recorded and additive organization is implemented. The workspace has six design-project handoffs plus one compact research workstream; [PROJECT_INDEX.md](PROJECT_INDEX.md) is the starting point. Text references, histories and experiments are indexed in GitHub. Five Drive subfolders held 19 initial preserved complex/visual/discussion assets; the October 24 Veteran transcript adds a twentieth. No source original was deleted or moved and no homebrew mechanics changed.
 
-## Current priorities
+## Current focus: finish organization
+
+Noah explicitly prioritized overall project organization on 2026-10-24. Subclass comparisons, mechanical revisions and version selection below are deferred until this organizational pass is complete. Public Test 1 and complete Proposed Revision 2 are both saved and indexed; no design decision is needed to complete organization.
+
+**Completion boundary:** all seven workstreams have the required handoff records. Missing historical source content is tracked as recovery work, not a reason to keep the folder/index structure unfinished. Preserve open canon questions without demanding design choices during housekeeping.
+
+## Design backlog — deferred
 
 1. **Veteran:** complete Proposed Revision 2 is recovered. Compare it with Public Test 1 and explicitly select the working design; retain unresolved A/A.1 attribution without inventing missing rules/files.
 2. **Bartitsu:** explicitly select wording/level-17 tuning for the next draft; audit advice is not adopted rules.
@@ -15,13 +21,13 @@ The initial audit is recorded and additive organization is implemented. The work
 
 ## Remaining administration
 
-Manually paste [CHATGPT_PROJECT_INSTRUCTIONS.md](CHATGPT_PROJECT_INSTRUCTIONS.md) into this ChatGPT Project's Instructions field. No tool here can update that field or persistent memory. Seven older writing blocks and missing complete chats/drafts are listed in [ACCESS_AND_RECOVERY.md](audit/ACCESS_AND_RECOVERY.md).
+The current project context already supplies the core project instructions. [CHATGPT_PROJECT_INSTRUCTIONS.md](CHATGPT_PROJECT_INSTRUCTIONS.md) remains the maintained master; compare and manually replace it only if an update is needed. No tool here can update that field or persistent memory. Seven older writing blocks and missing complete chats/drafts are listed in [ACCESS_AND_RECOVERY.md](audit/ACCESS_AND_RECOVERY.md).
 
 Use [MAINTENANCE.md](MAINTENANCE.md) during relevant sessions. No background synchronization or scheduled task exists. The [verification report](audit/VERIFICATION_REPORT.md) records checks and limitations; [CONFLICT_REGISTER.md](audit/CONFLICT_REGISTER.md) preserves unsettled precedence rather than guessing it.
 
 ## Source recovery follow-up
 
-The [October 23 recovery attempt](audit/recovery/2026-10-23-veteran-amadeus.md) found an older Amadeus cheat sheet and an external copy of September 30 Veteran research. Complete A/A.1, Revision 2 and Amadeus monster outputs remain unrecovered. Exact message/export requirements are now documented; existing working-version and approval states remain unchanged.
+The [October 23 recovery attempt](audit/recovery/2026-10-23-veteran-amadeus.md) found an older Amadeus cheat sheet and an external copy of September 30 Veteran research. At that time, complete A/A.1, Revision 2 and Amadeus monster outputs were unrecovered. Revision 2 was subsequently recovered below; A/A.1 attribution and Amadeus remain open. Exact message/export requirements are now documented; existing working-version and approval states remain unchanged.
 
 ## October 24 Veteran transcript recovery
 

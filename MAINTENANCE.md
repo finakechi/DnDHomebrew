@@ -31,8 +31,12 @@ Use this checklist during substantive work or an explicitly requested maintenanc
 
 ## Open recovery tasks
 
-Priority 1: recover full Veteran A/A.1 and proposed Revision 2 wording and establish which experimental branch Noah wants to resume. Do not replace Public Test 1 by inference.
+Veteran Revision 2 recovery is complete. Public Test 1 and Revision 2 are separately indexed. A/A.1 attribution remains unresolved; do not assume a lost file or repeat the completed feedback-chat search. Working-version selection is deferred design work, not an organizational prerequisite. Do not replace Public Test 1 by inference.
 
 Priority 2: recover Amadeus's complete delivered monster stat block; retain the character sheet as a distinct source.
 
 Priority 3: export the seven unreadable writing blocks listed in audit/SOURCE_INVENTORY.md from their originating chats or supply readable originals. The audit can be updated without reorganizing again.
+
+## Organization completion gate
+
+Before resuming design, verify all seven workstreams have their required records, relative navigation resolves, original source hashes match, current/experimental sources stay distinct, and outstanding access gaps have explicit owners/next actions. Verify designated Drive identities and external project pointers when their current state matters. Missing historical text and unresolved design choices remain documented backlog; they do not require empty placeholders or block structural completion. Record verification scope honestly. Noah prioritized this organizational closeout on 2026-10-24.
