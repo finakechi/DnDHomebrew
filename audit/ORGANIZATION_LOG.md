@@ -40,3 +40,11 @@ See VERIFICATION_REPORT.md for actual remote readback, source preservation and n
 - Inspected all two ZIP members and compared full SHA-256 hashes with the live preservation manifest.
 - Both match already archived feedback/audit sources; no missing experimental draft or monster output recovered.
 - Added a container inspection record and updated the Veteran handoff/inventory without duplicating source files or changing mechanics, canon, Drive assets or sharing.
+
+## October 24 complete Veteran transcript
+
+- Read Noah's supplied entire feedback transcript (REC-CHAT-001), preserving 57,676 original bytes in the existing Veteran Drive folder with size/parent/shared=false readback. This adds one asset; existing nineteen identities are unchanged.
+- Recovered all Proposed Revision 2 mechanics into one Markdown rendition with headings and grouped tables; compared every Lesson body against Public Test 1 and checked source-text preservation. No mechanics rewritten or adopted.
+- Corrected earlier direct-source/file claims: A/A.1/restricted choices are absent from this supplied entire chat; retain the context/memory attribution with unresolved provenance under C-014. Do not infer nonexistent draft files or silently promote/supersede a design.
+- Updated Veteran status/current pointers/decisions/history/open work/asset/version indexes and central coverage/conflict records. Left Amadeus and other projects unchanged. Raw conversation remains in Drive; GitHub contains the rules rendition and source-backed recovery report.
+- Previous dated recovery records remain as historical search evidence; current pointers mark Revision 2 text recovery complete. No deletion, relocation, sharing change, official-rules revalidation, playtest or numerical rerun occurred.

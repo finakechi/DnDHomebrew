@@ -26,3 +26,9 @@ Working text lives in GitHub; original documents/exports remain frozen source sn
 ## Additional external source pointer
 
 [September 30 Change the Plan follow-up](https://docs.google.com/document/d/1NrQlz-iMpyrVBKE5Tf988t5Nq2wuNT_bg1KQwneyqOE/edit?usp=drivesdk) was read completely during the recovery attempt. It remains in its original Drive location; the corresponding text is already in the GitHub archive. It is earlier advisory research, not A/A.1 or Revision 2. See [REC-GD-002](../../../audit/recovery/2026-10-23-veteran-amadeus.md).
+
+## Complete feedback transcript recovered October 24
+
+**REC-CHAT-001:** [Veteran_Subclass_Feedback_Transcript_Recovered_2026-10-24.txt](https://drive.google.com/file/d/14fEbGMwtOUQA6ZIf0CfCFYP2zVwWBwlA/view?usp=drivesdk) is the original 57,676-byte transcript Noah supplied as the entire chat, original Library identity `libfile_3f98bbc32b2c8191b95b7cf99bf31939`, original filename `Pasted text(3).txt`. SHA-256: `eccbe7eda787c0b10836f428d70fb793c7304e3162cb3882b6c53ab70ad1ee18`. Stored unchanged in the existing Veteran folder; size/parent/shared=false verified through Drive metadata. It is distinct from the shorter community-feedback input above. Recovery date is not a verified original message date.
+
+[Complete Revision 2 rules rendition](../experiments/proposed-playtest-revision-2-recovered-2026-10-24.md) is the single readable mechanics source for that Proposed version; [provenance and line map](../../../audit/recovery/2026-10-24-veteran-feedback-transcript.md) explain its formatting-only extraction. A/A.1 labels/choices are absent; that prior attribution remains unresolved rather than a demonstrated missing-file inventory.

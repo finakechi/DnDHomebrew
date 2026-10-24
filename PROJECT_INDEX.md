@@ -1,10 +1,10 @@
 # Project index
 
-Last verified: 2026-10-23 (America/New_York). Begin here, read the chosen STATUS.md, then its current rules and decisions. A status date records verification scope, not automatic new rules approval.
+Last verified: 2026-10-24 (America/New_York) for Veteran transcript recovery; other entries retain their subproject verification dates. Begin here, read the chosen STATUS.md, then its current rules and decisions. A status date records verification scope, not automatic new rules approval.
 
 | Project | Current reference and stage | Resume |
 |---|---|---|
-| Veteran Fighter | Public Test 1 complete Working testing baseline; A/A.1 and proposed Revision 2 separate/incompletely recovered | [Overview](subprojects/veteran-fighter/README.md) · [Status](subprojects/veteran-fighter/STATUS.md) |
+| Veteran Fighter | Public Test 1 Working testing baseline; complete Proposed Revision 2 recovered; A/A.1 attribution unresolved | [Overview](subprojects/veteran-fighter/README.md) · [Status](subprojects/veteran-fighter/STATUS.md) |
 | Bartitsu Rogue | October 5 provisional design; balance/wording review pending | [Overview](subprojects/bartitsu-rogue/README.md) · [Status](subprojects/bartitsu-rogue/STATUS.md) |
 | Horizon Walker 2024 | Playtest 0.2 Working; structured tests pending | [Overview](subprojects/horizon-walker/README.md) · [Status](subprojects/horizon-walker/STATUS.md) |
 | Hearth & Hazard | Foundation v0.1; foundational decisions open | [Overview](subprojects/hearth-and-hazard/README.md) · [Status](subprojects/hearth-and-hazard/STATUS.md) |

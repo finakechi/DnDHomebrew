@@ -1,27 +1,27 @@
-# Later Veteran experiments recovery handoff
+# Later Veteran experiments: evidence and handoff
 
-Recorded 2026-10-23. **Experimental / incomplete source recovery.** This is a continuity record, not reconstructed playable rules.
+Updated 2026-10-24. **Revision 2 fully recovered as a Proposed draft; A/A.1 remains an uncorroborated source attribution.** No alternatives have been combined or adopted through this archive work.
 
-## Version A and A.1
+## Complete Proposed Playtest Revision 2
 
-The supplied project-context excerpt identifies the October 7 “Veteran Subclass Feedback” conversation. Noah selected independent, combinable Practical Fighting Follow-Ups and attack-replacement Procedures; all four restricted non-damaging Follow-Ups after a Procedure; and further exploration of Misdirect/noncombat Tool utility.
+[Read the complete rules](proposed-playtest-revision-2-recovered-2026-10-24.md). Noah supplied the complete “Veteran Subclass Feedback” transcript; its final assistant message contains every subclass level and 19 selectable Lessons. The draft explicitly says it is not adopted or playtested. [REC-CHAT-001](https://drive.google.com/file/d/14fEbGMwtOUQA6ZIf0CfCFYP2zVwWBwlA/view?usp=drivesdk) is the original, and [the recovery report](../../../audit/recovery/2026-10-24-veteran-feedback-transcript.md) maps its lines and compares changes.
 
-The restricted choices are Close Work limited to Grapple/Shove; Hit or Correct movement only under its existing eligibility; Deliver; Misdirect. The visible user excerpts establish exploration choices, while the detailed option mapping comes from supplied project memory. The full A.1 feature text, timing, ranges and most recent delivered variant are unavailable. Do not synthesize them from Public Test 1.
+Deliver and Misdirect become options in the once-per-eligible-Attack-action PF choice after a weapon attack. They replace the usual PF follow-up, rather than a normal attack. Break Their Hold and Tool remain selectable level-3 attack replacements. Starting Lessons become three; later known counts are 4/5/6/7 at 7/10/15/18. Parting Blow moves to 7 with an Action-based trigger; Soldier's Tongue moves to 3; Barricade/Sabotage move to 7.
 
-## Proposed Playtest Revision 2
+The preceding discussion's **Option A** moves Improvisation into PF while retaining attack-replacement costs; **Option B** offers Deliver/Misdirect as alternatives to the usual follow-up. Revision 2 implements Option B. These local option letters do not establish the remembered named Version A/A.1.
 
-Targeted retrieval attributes an October 23 assistant output to an alternative experiment: integrate Battlefield Improvisation into Practical Fighting, reduce starting Lessons from four to three, adjust some Lesson levels and restrict Parting Blow. The summary calls it a proposed draft, not adopted or playtested. Its complete text was not found among title-search or project-folder results.
+## A/A.1: preserve the attribution without inventing rules
 
-The exact relationship between this proposal and A/A.1 is unresolved. Preserve both labels. A later timestamp does not cancel the explicit experimental choices. Public Test 1 remains the complete preserved baseline until there is evidence or a user decision selecting a replacement for a stated purpose.
+Earlier supplied memory/retrieval reports “Clean Two-Lane Fighting,” independent combinable Follow-Ups/Procedures, four restricted non-damaging Follow-Ups after Procedures, and further utility exploration. The reported mapping is Close Work limited to Grapple/Shove; Hit or Correct movement only under its existing eligibility; Deliver; Misdirect.
 
-## Recovery task
+The supplied entire feedback transcript contains neither the named A/A.1 drafts nor that quoted choice exchange. The earlier archive overstated its attribution as direct visible user evidence from this chat. Corrected VF-005–007 to identify the actual available evidence as supplied context/memory with unresolved provenance. Retain those reported experimental choices for investigation, but do not treat the transcript's silence as proof they never existed elsewhere or that Revision 2 supersedes them. No separate original A/A.1 draft file has been established.
 
-Recover the complete exchanges/drafts from their originating conversations or a readable export; compare mechanical differences; record the branch selected for continued work. Then add exact rules to a separately identified experiment. See C-001/C-002 in the [conflict register](../../../audit/CONFLICT_REGISTER.md).
+Revision 2's PF trigger requires a weapon attack; it does not grant the remembered restricted Follow-Up permission solely after a Procedure. A remaining weapon attack may still qualify normally. Do not copy remembered permissions into the recovered rules or equate the two packages.
 
-## October 23 recovery attempt
+## Current handoff
 
-A further targeted search did not retrieve the complete original bodies. See the [recovery record](../../../audit/recovery/2026-10-23-veteran-amadeus.md) for searches already completed and the exact messages still needed. Revision 2 retrieval points to a 2026-10-23T21:54:06Z response following a sourcebook-style/group-by-action request; this is a summary-derived locator, not inspected message metadata. The separately found September 30 Drive document is earlier Change the Plan research, not either later experiment. No version or approval state changed.
+Public Test 1 remains the preserved complete Working testing baseline; Revision 2 is a complete Proposed alternative available for comparison. Next, compare these two packages and explicitly select the design to continue. Resolve A/A.1 attribution only if needed or if direct evidence arrives. Noah has already supplied this entire chat: do not ask him to look there again for nonexistent demonstrated draft files or repeat the duplicate ZIP search.
 
-## October 24 attachment bundle check
+## Prior recovery attempts (historical scope)
 
-The supplied ZIP has two members, both exact duplicates of the existing community feedback and mechanical audit. It contains no full A/A.1 or Revision 2 text. See the [inspection record](../../../audit/recovery/2026-10-24-veteran-chat-files.md). Obtain the actual assistant messages or a conversation export containing their bodies; an attachment-only bundle does not fill this gap.
+The [October 23 searches](../../../audit/recovery/2026-10-23-veteran-amadeus.md) returned summaries and older external documents; the [October 24 ZIP](../../../audit/recovery/2026-10-24-veteran-chat-files.md) contained two duplicate input attachments. Their findings remain accurate for their inspected sources, but their Revision 2 recovery need is now closed. The earlier exact timestamp is a summary-derived locator only; the supplied transcript has no message metadata confirming it. See C-001/C-002/C-014 in the [conflict register](../../../audit/CONFLICT_REGISTER.md).

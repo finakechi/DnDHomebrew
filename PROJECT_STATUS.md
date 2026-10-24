@@ -1,12 +1,12 @@
 # Project status
 
-Last verified: 2026-10-23 (America/New_York).
+Last verified: 2026-10-24 (America/New_York) for Veteran source recovery; no new design adoption.
 
-The initial audit is recorded and additive organization is implemented. The workspace has six design-project handoffs plus one compact research workstream; [PROJECT_INDEX.md](PROJECT_INDEX.md) is the starting point. Text references, histories and experiments are indexed in GitHub. Five Drive subfolders hold 19 preserved complex/visual/discussion assets. No source original was deleted or moved and no homebrew mechanics changed.
+The initial audit is recorded and additive organization is implemented. The workspace has six design-project handoffs plus one compact research workstream; [PROJECT_INDEX.md](PROJECT_INDEX.md) is the starting point. Text references, histories and experiments are indexed in GitHub. Five Drive subfolders held 19 initial preserved complex/visual/discussion assets; the October 24 Veteran transcript adds a twentieth. No source original was deleted or moved and no homebrew mechanics changed.
 
 ## Current priorities
 
-1. **Veteran:** recover complete A/A.1 and proposed Revision 2 text; preserve Public Test 1 as the complete testing reference while identifying the experiment to resume.
+1. **Veteran:** complete Proposed Revision 2 is recovered. Compare it with Public Test 1 and explicitly select the working design; retain unresolved A/A.1 attribution without inventing missing rules/files.
 2. **Bartitsu:** explicitly select wording/level-17 tuning for the next draft; audit advice is not adopted rules.
 3. **Horizon Walker:** test the integrated 0.2 package, particularly teleportation with damaging areas.
 4. **Hearth & Hazard:** answer Section 15's eight foundational questions before downstream rewrites.
@@ -22,3 +22,7 @@ Use [MAINTENANCE.md](MAINTENANCE.md) during relevant sessions. No background syn
 ## Source recovery follow-up
 
 The [October 23 recovery attempt](audit/recovery/2026-10-23-veteran-amadeus.md) found an older Amadeus cheat sheet and an external copy of September 30 Veteran research. Complete A/A.1, Revision 2 and Amadeus monster outputs remain unrecovered. Exact message/export requirements are now documented; existing working-version and approval states remain unchanged.
+
+## October 24 Veteran transcript recovery
+
+The [complete supplied transcript](https://drive.google.com/file/d/14fEbGMwtOUQA6ZIf0CfCFYP2zVwWBwlA/view?usp=drivesdk) contains all Proposed Revision 2 mechanics, now [preserved as a readable rules rendition](subprojects/veteran-fighter/experiments/proposed-playtest-revision-2-recovered-2026-10-24.md). It does not corroborate A/A.1 or the restricted Follow-Up exchange previously attributed to this chat. The [recovery record](audit/recovery/2026-10-24-veteran-feedback-transcript.md) corrects that evidence boundary and the confusion between assistant messages and draft files. Earlier missing-Revision-2 statements above are historical; Amadeus and other recovery gaps remain unchanged. No replacement design was adopted. The user has supplied project instructions in the current project context; installation of every maintained master line was not independently verified.

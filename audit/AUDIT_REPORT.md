@@ -50,3 +50,7 @@ The current user request authorizes additive organization within DnDHomebrew and
 ## Implementation follow-through
 
 The additive organization is now recorded in ORGANIZATION_LOG.md. SOURCE_INVENTORY.md maps each retrieved identity to its preserved destination; PRESERVATION_MANIFEST.json separates original and rendition hashes. Portable metadata from six research reports is indexed in ARCHIVED_SOURCE_LINKS.md. Conflicts and recovery gaps remain explicit. The final remote and navigation checks are in VERIFICATION_REPORT.md.
+
+## October 24 direct-source correction
+
+The [supplied complete Veteran feedback transcript](recovery/2026-10-24-veteran-feedback-transcript.md) now recovers all Proposed Revision 2 rules. It does not contain A/A.1 or the restricted Follow-Up exchange previously attributed to this chat through supplied context/memory. Current handoffs and decision evidence flag that attribution as uncorroborated (C-014); the earlier audit statements above describe the evidence available then and are not direct transcript confirmation. No separate original downloadable A/A.1 or Revision 2 draft files have been established. The working baseline and all earlier sources are preserved. Other recovery gaps remain unchanged.

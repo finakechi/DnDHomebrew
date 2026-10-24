@@ -695,5 +695,25 @@
     "access": "retrieved",
     "preserved_destination": "https://drive.google.com/file/d/1YynLtXrvVLASXkEDkUL_eku3bcAyNf4T/view?usp=drivesdk",
     "archived_original_drive_file_id": "1YynLtXrvVLASXkEDkUL_eku3bcAyNf4T"
+  },
+  {
+    "source_id": "REC-CHAT-001",
+    "original_path": "/Pasted text(3).txt",
+    "library_file_id": "libfile_3f98bbc32b2c8191b95b7cf99bf31939",
+    "uploaded_file_id": "file_00000000ef1881f5935a274458f62ea2",
+    "sha256": "eccbe7eda787c0b10836f428d70fb793c7304e3162cb3882b6c53ab70ad1ee18",
+    "bytes": 57676,
+    "access": "user-supplied workspace copy; fully read",
+    "preserved_destination": "https://drive.google.com/file/d/14fEbGMwtOUQA6ZIf0CfCFYP2zVwWBwlA/view?usp=drivesdk",
+    "archived_original_drive_file_id": "14fEbGMwtOUQA6ZIf0CfCFYP2zVwWBwlA",
+    "exact_original_bytes": true,
+    "renditions": [
+      {
+        "destination": "subprojects/veteran-fighter/experiments/proposed-playtest-revision-2-recovered-2026-10-24.md",
+        "sha256": "1e3ad974b30ee12a6bf0b379cd3d864fb21a85981d6a799e7c6713c1184a59e0",
+        "scope": "Complete Revision 2 subclass rules; original transcript lines 1031–1424",
+        "formatting_only": true
+      }
+    ]
   }
 ]

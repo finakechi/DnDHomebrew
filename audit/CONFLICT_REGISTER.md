@@ -1,11 +1,11 @@
 # Conflict register
 
-Last verified: 2026-10-23 (America/New_York). “Open” means substantive evidence or a decision remains needed. “Documented distinction” preserves both sources where their purposes differ; it does not adopt new mechanics.
+Last verified: 2026-10-24 (America/New_York) for Veteran recovery; other entries retain earlier verification scope. “Open” means substantive evidence or a decision remains needed. “Documented distinction” preserves both sources where their purposes differ; it does not adopt new mechanics.
 
 | ID | Sources / discrepancy | Evidence and risk | Treatment / possible resolution | State |
 |---|---|---|---|---|
-| C-001 | Veteran Public Test 1 vs A/A.1 | Complete proposed testing rules coexist with explicit experimental choices; full A.1 missing | Preserve baseline and experiment separately. Recover text or ask for a scoped branch selection during design. | Open |
-| C-002 | A/A.1 vs Proposed Revision 2 | Retrieved later proposal changes PF/Lesson count/gates; no full text or explicit replacement evidence | Preserve both labels; newer timestamp does not cancel experimental approvals. Recover original and compare. | Open |
+| C-001 | Veteran Public Test 1 vs reported A/A.1 | Earlier memory/retrieval reports experimental choices; supplied entire feedback transcript does not corroborate their attribution (C-014) | Preserve baseline and attributed summary separately. Do not infer exact missing rules/files or a blanket experimental approval from this transcript. | Open provenance / working-version choice |
+| C-002 | Reported A/A.1 vs Proposed Revision 2 | Full Revision 2 recovered October 24; explicit Proposed/not adopted status. Its weapon-attack PF trigger does not state remembered Procedure-only permissions; A/A.1 attribution remains uncorroborated | Revision 2 text gap closed. Preserve distinct source scopes; compare complete baseline/Revision 2 and obtain a scoped working-version choice. Do not infer replacement from dates. | Recovery resolved for Revision 2; relationship/adoption open |
 | C-003 | August/September Veteran handoffs vs October reports | Old “current” text contains Change the Plan, different Readiness/level-15 packages; broad rejection can be overgeneralized | October testing file governs that named baseline; historical sources retained. Later bounded Procedures are distinct from old arbitrary-action replacement. No experiment automatically adopted. | Documented distinction |
 | C-004 | Bartitsu provisional 2d6 capstone vs audit's 1d6 recommendation | Audit identifies high-level cumulative power, but user adoption absent | Preserve written 2d6 baseline and proposed 1d6 alternative; Noah selects/test results inform revision. | Open |
 | C-005 | Bartitsu history/originality reports vs mechanical audit | Audit identifies wrong Steady Aim classification, other rules inaccuracies and old grapple assumptions | History remains evidence of inspiration/search; verify official current rules before mechanics use. No claim of conclusive originality. | Open rules verification |
@@ -17,9 +17,14 @@ Last verified: 2026-10-23 (America/New_York). “Open” means substantive evide
 | C-011 | Missing explicit adoption vs polished “recommended/locked/Core” labels | Several generated reports could be mistaken for final decisions | Governance/status identify Working/Proposed scope; recover original approval when its precise extent matters. | Ongoing governance guard |
 | C-012 | Seven unreadable pasted blocks vs adjacent similar-size documents | Equal sizes or likely thematic overlap are not proof of identical contents | Retain identities and recovery list; no content inferred or overwritten. | Open recovery |
 | C-013 | Archived source links/citation tokens vs current navigable links | Original reports contain historical sandbox/tool-reference citations that may not resolve outside their originating chat | Preserve immutable text, index original identity, retain retrievable citation metadata separately; new working navigation must resolve. Reverify references when needed. | Known archival limitation |
+| C-014 | Supplied entire Veteran feedback transcript vs earlier A/A.1 attribution | Prior context/memory linked A/A.1 and quoted restricted choices to this chat; its supplied full text lacks them and uses Option A for a different minimal-change proposal. Earlier recovery also conflated messages with files. | [Direct-source findings](recovery/2026-10-24-veteran-feedback-transcript.md): recover Revision 2; downgrade unsupported direct-evidence claims; retain earlier summary without declaring it false/superseded. No separate original draft files established. Resolve attribution only with direct evidence or scoped user clarification if needed. | Open attribution; archival correction applied |
 
 For a resolution, append the explicit evidence, date, scope and resulting version/commit. Never remove competing source records merely because a conflict is closed.
 
 ## October 23 recovery follow-up
 
 C-001/C-002/C-010 remain open after the [targeted source-recovery attempt](recovery/2026-10-23-veteran-amadeus.md). Retrieved locators and the older Drive documents do not resolve missing full rules or adoption. The 2023 Amadeus cheat sheet is distinct from the 2026 monster output; the September 30 Veteran document is distinct from later A/A.1 and Revision 2. No numbers, exact wording or canon precedence were filled from summaries.
+
+## October 24 direct transcript follow-up
+
+REC-CHAT-001 resolves C-002's missing full Revision 2 text. Its sourcebook request is drafting authorization, not adoption. A/A.1 is not present in the supplied entire chat, so earlier claims of direct transcript evidence were corrected in VF-005–007 and C-014. No creative conflict was silently resolved; baseline source bytes remain unchanged. Prior follow-up statements describe their historical coverage, not the current recovery state. C-010 is unaffected.

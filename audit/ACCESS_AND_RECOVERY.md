@@ -16,8 +16,8 @@ The seven `/DnD Homebrew/` items `Pasted markdown.md` and `Pasted markdown(1).md
 
 | Material | What is available | Exact recovery need |
 |---|---|---|
-| Veteran A/A.1 | Visible experimental choices and memory summary | Complete delivered rules/exchange and latest variant, to compare without inventing mechanics |
-| Veteran Proposed Playtest Revision 2 | Retrieved October 23 assistant-output summary | Full source text and evidence of any adoption/reversal |
+| Veteran A/A.1 | Earlier supplied context/memory attribution, uncorroborated by the supplied entire feedback chat | Establish original source only if needed; no separate missing draft file is demonstrated. Do not repeat this completed transcript search or invent exact mechanics. |
+| Veteran Proposed Playtest Revision 2 | Complete rules recovered October 24 from the supplied full transcript | Text recovery complete; [read rules](../subprojects/veteran-fighter/experiments/proposed-playtest-revision-2-recovered-2026-10-24.md). Selection/adoption remains a separate design decision. |
 | Bartitsu design chat | Complete provisional report and later audits | Original exchange only if exact approval/rejection attribution is needed |
 | Amadeus monster | Source character sheet plus retrieved brief/output title | Complete October 7 monster block and later changes, not another reconstruction from the sheet |
 | Hearth April comparison | Retrieved pointer to an old attachment without usable current identity | Readable comparative study if needed for later foundation choices |
@@ -32,3 +32,7 @@ No scheduled automation, continuous monitoring, automatic two-way synchronizatio
 ## Follow-up attempt — October 23
 
 The [targeted recovery record](recovery/2026-10-23-veteran-amadeus.md) documents additional Library, conversation and Drive searches. Older source pointers were recovered, but complete Veteran A/A.1, Revision 2 and Amadeus monster messages remain unavailable. The next necessary input is readable copies of the relevant original messages and amendments from their originating chats, grouped as specified there. No account-wide export or new mechanical reconstruction is needed.
+
+## October 24 full feedback transcript supplied
+
+Read all of REC-CHAT-001 and recovered complete Revision 2. [The report](recovery/2026-10-24-veteran-feedback-transcript.md) corrects the missing-draft-file premise and A/A.1 attribution. This supplied chat no longer needs to be searched or exported. Its input attachment markers are distinct from assistant messages containing proposals; no original standalone draft deliverable is established. A/A.1 remains an unresolved memory-source attribution, not proof of a lost file. Amadeus and other unreadable-source gaps remain unchanged.

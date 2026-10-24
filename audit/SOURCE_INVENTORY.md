@@ -101,7 +101,7 @@ Read coverage means the file was retrieved and indexed/extracted; the audit revi
 
 - SRD_CC_v5.2.1.pdf was discovered as reference metadata; its text/bytes were not inspected in this run. See shared-resources/RULES_REFERENCES.md.
 - StormKingBigby/source-restoration artifacts were discovered as metadata in a separate project. They were not treated as DnDHomebrew design masters.
-- Complete A/A.1 and Proposed Playtest Revision 2, original Bartitsu design chat, Amadeus monster response, earlier April system comparison, and full prior research answers remain unrecovered. See ACCESS_AND_RECOVERY.md.
+- A/A.1 original-source attribution, original Bartitsu design chat, Amadeus monster response, earlier April system comparison, and full prior research answers remain unresolved/unrecovered. Complete Revision 2 was recovered in REC-CHAT-001 below. See ACCESS_AND_RECOVERY.md.
 - Raw report containers remain original attachments; only their final visible reports were imported, avoiding internal activity/transport metadata. See [recovered citation URLs](ARCHIVED_SOURCE_LINKS.md); the cited historical report rendition is preserved separately from its plain Markdown export. Original hashes identify the containers; the preservation manifest separately hashes the extracted files.
 
 ## Source recovery supplement — October 23
@@ -111,3 +111,9 @@ Two external Drive documents were found and read during the [Veteran/Amadeus rec
 ## Uploaded bundle supplement — October 24
 
 `Veteran_Chat_Files(1).zip`, Library ID `libfile_36a8530ff73c81919eb2e555c9afa5d6`, is an additional supplied container. Its two members exactly match SRC-028 and SRC-048/SRC-049. The [inspection record](recovery/2026-10-24-veteran-chat-files.md) records container/member hashes and destinations. No new distinct design document was recovered, no member copy was added, and initial audit counts remain historical counts rather than claims of a recovered draft.
+
+## Direct transcript supplement — October 24
+
+**REC-CHAT-001** is the new user-supplied `Pasted text(3).txt`, Library identity `libfile_3f98bbc32b2c8191b95b7cf99bf31939`, uploaded identity `file_00000000ef1881f5935a274458f62ea2`. Read all 1,491 lines/57,676 bytes from the supplied workspace copy. Original SHA-256: `eccbe7eda787c0b10836f428d70fb793c7304e3162cb3882b6c53ab70ad1ee18`. [Original preserved in Drive](https://drive.google.com/file/d/14fEbGMwtOUQA6ZIf0CfCFYP2zVwWBwlA/view?usp=drivesdk); [readable Proposed Revision 2 rendition](../subprojects/veteran-fighter/experiments/proposed-playtest-revision-2-recovered-2026-10-24.md); [recovery/verification details](recovery/2026-10-24-veteran-feedback-transcript.md).
+
+This is an additional source beyond the historical 73-attachment audit, not a relabeling of the 12,545-byte community-feedback input or either ZIP member. The manifest adds its original/rendition relationship. No original attachment was edited. The complete Revision 2 message is recovered; A/A.1 labels/choices are absent, so their earlier memory attribution is unresolved rather than a verified missing-file entry. The Drive asset total is now 20; previous 19-asset readbacks remain historical checks.

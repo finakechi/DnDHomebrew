@@ -32,3 +32,11 @@ Preserved one indexed copy per recovered source; retained duplicate identities i
 Completed targeted Library, conversation-context and Drive searches. Read two earlier external documents and recorded their different purposes. Full requested later drafts/stat block remain unavailable through the current tools. Added verified source pointers and a [precise original-message recovery list](../../audit/recovery/2026-10-23-veteran-amadeus.md); no mechanics reconstructed or approval inferred.
 
 [Overview](README.md) · [Status](STATUS.md) · [Current design](CURRENT_DESIGN.md) · [Decisions](DECISIONS.md) · [History](HISTORY.md) · [Open questions](OPEN_QUESTIONS.md) · [Assets](assets/ASSET_INDEX.md) · [Project index](../../PROJECT_INDEX.md)
+
+## October 24 complete feedback transcript recovery and correction
+
+Noah supplied what he identifies as the entire “Veteran Subclass Feedback” transcript after correcting the mistaken missing-file premise. Preserved its original bytes in the existing Drive folder as REC-CHAT-001 and recovered [complete Proposed Playtest Revision 2](experiments/proposed-playtest-revision-2-recovered-2026-10-24.md), including all 19 Lessons. Original messages are undated within the supplied text; the recovery date does not assign them a new authoring date.
+
+The exchange first suggests Tool at 5/another Lesson at 5, then withdraws those suggestions; the final rules keep Tool at 3 and grant no new Lesson at 5. Final routing follows the transcript's Option B: Deliver/Misdirect share the normal PF choice after a weapon attack. This is a proposal rather than adoption, and Public Test 1 is untouched.
+
+The earlier archive's attribution of A/A.1 and the four restricted Procedure→Follow-Up choices to this same chat is not corroborated by the supplied entire transcript. Corrected decision evidence from purported direct excerpts to unresolved memory/retrieval attribution, retaining that history without declaring it false or superseded. The transcript's “Option A” is a separate minimal-change alternative. No original separate draft-file existence is inferred. See [findings and exact line map](../../audit/recovery/2026-10-24-veteran-feedback-transcript.md) and C-014. Amadeus recovery is outside this source's contents.
